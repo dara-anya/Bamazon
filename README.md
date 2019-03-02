@@ -3,8 +3,8 @@ An Amazon-like storefront using MySQL. The app will take in orders from customer
 
 ### How it works
 1. A database containg a *products* table with 10 items, is created using MySQL.
-1. The application connects the MySQL using the *mysql* module. The application now has access to the items in the *products* table.
 1. To start the application, navigate to the *Bamazon* folder in terminal and type <img width="175" alt="screen shot 2019-03-01 at 10 41 43 pm" src="https://user-images.githubusercontent.com/14854129/53677546-35a08d80-3c77-11e9-8f8a-221fe16aa234.png"> into the command line.
+1. The application connects the MySQL using the *mysql* module. The application now has access to the items in the *products* table. 
 1. The table of all the items will display (*see below*). The *table* module was used to display the table in this way.
 <img width="723" alt="screen shot 2019-03-01 at 11 20 42 pm" src="https://user-images.githubusercontent.com/14854129/53677630-bc099f00-3c78-11e9-8418-6ab512770e75.png">
 (I created a *for loop* to iterate through all items in the table. I could not figure out how to create one table for all items.)
