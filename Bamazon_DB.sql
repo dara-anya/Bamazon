@@ -20,6 +20,6 @@ values
 ("German Handcrafted Wood Cukoo Clock", "Home & Kitchen", 325.00, 32),
 ("KitchenAid Artisan Design Series", "Home & Kitchen", 299.99, 3),
 ("Golden Eagle Russian Luxury Backgammon Set", "Toy & Games", 134.25, 5),
-("1969 Mini Cooper", "Vehicles", 21900.00, 2),
+("1969 Mini Cooper", "Vehicles", 21900.00, 0),
 ("GoPro HERO6 Black 4K Action Camera", "Electronics", 279.99, 25),
 ("Bonsai Tree", "Garden & Outdoor", 26.99, 19);
