@@ -10,11 +10,11 @@ An Amazon-like storefront using MySQL. The app will take in orders from customer
 (I created a __for loop__ to iterate through all items in the table. I could not figure out how to create one table for all items.)
 1. The user will be prompted on the item (by giving the item ID) and quantity of said item that is to be purchased. If the item is not in stock then the following message will display:
 
+<img width="436" alt="screen shot 2019-03-01 at 11 26 05 pm" src="https://user-images.githubusercontent.com/14854129/53677698-dc862900-3c79-11e9-894a-9d157f424369.png">
+
+<img width="515" alt="screen shot 2019-03-01 at 11 24 16 pm" src="https://user-images.githubusercontent.com/14854129/53677699-e019b000-3c79-11e9-88f4-04bd1d1e22fc.png">
 
 
-<img width="783" alt="screen shot 2019-03-01 at 11 06 45 pm" src="https://user-images.githubusercontent.com/14854129/53677540-2d485280-3c77-11e9-814a-fdc661dd4dce.png">
-
-<img width="726" alt="screen shot 2019-03-01 at 11 07 05 pm" src="https://user-images.githubusercontent.com/14854129/53677542-320d0680-3c77-11e9-986c-aa2013cae993.png">
 
 
 
