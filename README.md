@@ -8,7 +8,7 @@ An Amazon-like storefront using MySQL. The app will take in orders from customer
 1. The table of all the items will display (*see below*). The *table* module was used to display the table in this way.
 <img width="723" alt="screen shot 2019-03-01 at 11 20 42 pm" src="https://user-images.githubusercontent.com/14854129/53677630-bc099f00-3c78-11e9-8418-6ab512770e75.png">
 (I created a *for loop* to iterate through all items in the table. I could not figure out how to create one table for all items.)
-<br>
+<br><br>
 5. The user will be prompted on the item (by giving the item ID) and quantity of said item that is to be purchased. If the item is not in stock then the following message will display and the application will stop:
 <img width="436" alt="screen shot 2019-03-01 at 11 26 05 pm" src="https://user-images.githubusercontent.com/14854129/53677698-dc862900-3c79-11e9-894a-9d157f424369.png">
 
